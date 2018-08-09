@@ -1,4 +1,5 @@
 float pizzaDiam; 
+
 boolean showGuides;
 
 void setup () {
@@ -107,6 +108,7 @@ void draw () {
 
   // Add cheese
   addCheese();
+  
   
   // Add pepperonis
   addPepperoni();
